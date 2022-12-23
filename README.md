@@ -1,1 +1,1 @@
-# hacker_rank_python
+# Exercicios resolvidos do HackerRank em Python
